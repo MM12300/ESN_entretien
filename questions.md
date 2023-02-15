@@ -13,7 +13,7 @@
 - Quel est le **salaire** ? Y-a-t-il une part de **rémunération variable** ?
 - Quels sont les **avantages** ? CE, primes, autres
 - Est-ce possible d'avoir des **activités annexes** ? Contribution open-source, freelancing
-- Comment se déroule les **périodes d'inter-contrat** ? Rémunérée ou non, formation ou non etc...
+- Comment se déroule les **périodes d'inter-contrat** ? Rémunération fixe ou variable, formation ou non etc...
 
 ## À propos des Missions
 - Quel est le **type de mission** (nouveau projet, maintenance applicative), le **secteur d'activité** des clients, **durée moyenne d'une mission**, **secteur ciblé**.
